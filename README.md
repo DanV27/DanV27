@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DanV27">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1200&color=FF8C42&center=true&vCenter=true&width=600&height=70&lines=Daniel%2C+Valenzuela" alt="Daniel Valenzuela" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1200&color=FF8C42&center=true&vCenter=true&width=600&height=70&lines=Daniel%2+Valenzuela" alt="Daniel Valenzuela" />
   </a>
 </p>
 
