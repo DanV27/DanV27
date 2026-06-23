@@ -18,7 +18,7 @@ CS Student at Western Governors University — Chicago, IL
 
 **Stack:** Python, Flask, Flask-SQLAlchemy, Anthropic Claude API, Pyodide, Jinja2, Tailwind CSS
 
-**Live demo:** [ai-code-generator--danv27.replit.app]([https://ai-code-generator--danv27.replit.app/](https://learn-py--danv27.replit.app))
+**Live demo:** [ai-code-generator--danv27.replit.app](https://learn-py--danv27.replit.app)
 
 ---
 
